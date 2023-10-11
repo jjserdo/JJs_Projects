@@ -1,4 +1,11 @@
 
+## Persons
+
+#### Director of Communications and Marketing, Science & Engineering
+Rhonda Zurn
+rzurn@umn.edu
+[Unit Communication Directors | University Relations (umn.edu)](https://university-relations.umn.edu/about/unit-communication-directors)
+
 ---
 ## Links
 #### Branding and Legal with the UMN

@@ -1,6 +1,12 @@
 
 ---
 
+September 20, 2023
+- Jason from UMN Brand Team replied to me saying that I would need to connect with my department's communication's lead.
+- added contact info into [[Resources]]
+
+---
+
 September 18, 2023
 - Conversation with fellow grad students about university merchandise
 - Started with John Hopkins long sleeve that a fellow grad student in the department purchased from a t-shirt machine held in their University during a conference
