@@ -1,0 +1,7 @@
+- [ ] Avatar Photo
+- [ ] Contacts
+	- [ ] Email: justineserdoncillo@gmail.com
+	- [ ] LinkedIn: linkedin.com/in/jjserdoncillo
+	- [ ] Google Scholar: scholar.google.com/citations?user=iECJVwIAAAAJ&hl=en&authuser=1
+- [ ] Title: 
+- [ ] What I'm Doing: 

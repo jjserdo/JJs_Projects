@@ -13,13 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JJ_Projects/Resources.md",
+                "file": "JJ_Projects/AEM Clothing Merchandise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179af5b4392ad8d3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Family Tree (Mother's Side).canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -107.5,
+                  "zoom": -0.7723363328791878
+                }
+              }
+            }
+          },
+          {
+            "id": "2fa373ad096fd74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Lead for Winter Break Getaway.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "30493cbec44d0c78",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JJ_Projects/Resources.md",
+                "file": "Meal Lead for Winter Break Getaway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JJ_Projects/Resources.md",
+                "file": "Meal Lead for Winter Break Getaway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JJ_Projects/Resources.md"
+                "file": "Meal Lead for Winter Break Getaway.md"
               }
             }
           }
@@ -147,11 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945939db48964b5b",
+  "active": "2fa373ad096fd74d",
   "lastOpenFiles": [
+    "Family Tree (Mother's Side).canvas",
+    "Meal Lead for Winter Break Getaway.md",
+    "Family Tree (Father's Side).canvas",
+    "README.md",
+    "Personal Website/To Do.md",
     "JJ_Projects/AEM Clothing Merchandise.md",
+    "Personal Website",
     "JJ_Projects/Resources.md",
-    "JJ_Projects/Tasks.md",
-    "README.md"
+    "JJ_Projects/Tasks.md"
   ]
 }
